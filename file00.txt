@@ -1,4 +1,3 @@
 I am a new file #00
 Sign commit:
-  CLI: V
-  SourceTree: ?
+  CLI: ?
