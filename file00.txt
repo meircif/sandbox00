@@ -1,2 +1,4 @@
 I am a new file #00
-Sign commit?
+Sign commit:
+  CLI: V
+  SourceTree: ?
