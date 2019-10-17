@@ -1,4 +1,4 @@
 I am a new file #00
 Sign commit:
   CLI: V
-  SmartGit: ?
+  SmartGit: V
