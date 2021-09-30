@@ -1,4 +1,4 @@
 I am a file #00
 Sign commit:
-  SmartGit: ?
+  LTWin SmartGit: ?
  
